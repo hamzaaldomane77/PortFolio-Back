@@ -22,4 +22,4 @@ Owner Information :
     'password': 'owner1234'
 }
 ```
-The front-end repository for this project can be found ([here](https://github.com/Ahmad-mh1999/portfolio-frontend-task.git))
+The front-end repository for this project can be found ([here](https://github.com/hamzaaldomane77/PortFolio-Fornt))
